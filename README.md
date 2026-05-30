@@ -53,12 +53,6 @@ titanic-survival-prediction-model/
 ├── titanicfinal.ipynb                 # Main notebook — full pipeline
 ├── titanic_train.csv                  # Training data (712 passengers)
 ├── titanic_test.csv                   # Test data (179 passengers)
-├── titanic_submission.csv             # Final model predictions
-├── titanic_model.pkl                  # Saved trained model
-├── model_analysis.png                 # Visualisation — 4 charts
-├── Titanic_Survival_Prediction.pptx   # Project presentation
-├── Titanic_Documentation.docx         # Full technical documentation
-├── requirements.txt                   # Python dependencies
 └── README.md                          # This file
 ```
 
